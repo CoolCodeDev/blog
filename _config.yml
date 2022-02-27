@@ -1,6 +1,6 @@
-title: "Blog Title"
-author: "Blog Author"
-description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
+title: "Cool Code"
+author: "Johnny Nilsson"
+description: "Tips, tricks, tools and thoughts"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
